@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  align-items: center;
+  background-color: #141212;
+  color: #fff;
+  height: 40vh;
+}
+
+.footer .nav-link {
+  color: #fff;
+  padding: 0 20px;
+  opacity: 0.6;
+}
+
+.footer .nav-link:hover {
+  opacity: 1;
+}
+
+.cta-footer {
+  margin-bottom: 50px;
+}
+
+.cta-footer p {
+  margin-bottom: 20px;
+}

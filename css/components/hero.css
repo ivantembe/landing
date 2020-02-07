@@ -1,0 +1,24 @@
+.hero {
+  background-color: #f0f0f1;
+}
+
+.hero-content {
+  display: flex;
+  height: 80vh;
+  align-items: center;
+  justify-content: space-between;
+  _background-color: lightgrey;
+}
+
+.hero-content .info {
+  padding: 0 50px;
+}
+
+.hero-content .text {
+  margin-bottom: 20px;
+}
+
+.phone-mockup {
+  width: 350px;
+  margin-top: 50px;
+}

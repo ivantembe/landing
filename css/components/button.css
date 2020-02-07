@@ -1,0 +1,29 @@
+.btn {
+  display: inline-block;
+  padding: 10px 15px;
+  margin: 5px 0;
+  border-radius: 50px;
+}
+
+.btn-dark {
+  color: #fff;
+  background-color: #141212;
+}
+
+.btn-dark:hover {
+  color: #141212;
+  background-color: #fff;
+}
+
+.btn-light {
+  color: #141212;
+  background-color: #fff;
+  width: 20vw;
+  padding: 15px 0;
+}
+
+.btn-light:hover {
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: #141212;
+}

@@ -1,0 +1,27 @@
+.features {
+  display: flex;
+  margin-bottom: 50px;
+  color: #484848;
+  _background-color: red;
+}
+
+.features-title {
+  margin: 50px 0;
+  text-align: center;
+}
+.features .item {
+  width: 50%;
+  text-align: justify;
+}
+
+.features .item:first-child {
+  margin-right: 50px;
+}
+
+.features .item:last-child {
+  margin-left: 50px;
+}
+
+.features .item h3 {
+  padding-bottom: 20px;
+}

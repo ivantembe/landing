@@ -1,0 +1,43 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700");
+
+/* Fontawesome */
+@import url("https://use.fontawesome.com/releases/v5.6.3/css/all.css");
+
+/* CSS Components */
+@import url("components/navbar.css");
+@import url("components/hero.css");
+@import url("components/button.css");
+@import url("components/features.css");
+@import url("components/footer.css");
+
+/* Utilities */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.align-center {
+  text-align: center;
+}
